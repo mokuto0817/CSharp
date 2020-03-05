@@ -1,0 +1,10 @@
+E:\c#\CAL_frame\CAL_frame\CAL_frame\bin\Debug\CAL_frame.exe.config
+E:\c#\CAL_frame\CAL_frame\CAL_frame\bin\Debug\CAL_frame.exe
+E:\c#\CAL_frame\CAL_frame\CAL_frame\bin\Debug\CAL_frame.pdb
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.csprojAssemblyReference.cache
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.Form1.resources
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.Properties.Resources.resources
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.csproj.GenerateResource.cache
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.csproj.CoreCompileInputs.cache
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.exe
+E:\c#\CAL_frame\CAL_frame\CAL_frame\obj\Debug\CAL_frame.pdb
