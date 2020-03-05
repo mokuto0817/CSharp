@@ -1,0 +1,7 @@
+E:\c#\erichsen\erichsen\bin\Debug\erichsen.exe.config
+E:\c#\erichsen\erichsen\bin\Debug\erichsen.exe
+E:\c#\erichsen\erichsen\bin\Debug\erichsen.pdb
+E:\c#\erichsen\erichsen\obj\Debug\erichsen.csprojAssemblyReference.cache
+E:\c#\erichsen\erichsen\obj\Debug\erichsen.csproj.CoreCompileInputs.cache
+E:\c#\erichsen\erichsen\obj\Debug\erichsen.exe
+E:\c#\erichsen\erichsen\obj\Debug\erichsen.pdb
