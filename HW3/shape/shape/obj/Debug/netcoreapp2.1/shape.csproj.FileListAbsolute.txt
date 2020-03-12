@@ -1,0 +1,11 @@
+E:\c#\shape\shape\bin\Debug\netcoreapp2.1\shape.deps.json
+E:\c#\shape\shape\bin\Debug\netcoreapp2.1\shape.runtimeconfig.json
+E:\c#\shape\shape\bin\Debug\netcoreapp2.1\shape.runtimeconfig.dev.json
+E:\c#\shape\shape\bin\Debug\netcoreapp2.1\shape.dll
+E:\c#\shape\shape\bin\Debug\netcoreapp2.1\shape.pdb
+E:\c#\shape\shape\obj\Debug\netcoreapp2.1\shape.csprojAssemblyReference.cache
+E:\c#\shape\shape\obj\Debug\netcoreapp2.1\shape.csproj.CoreCompileInputs.cache
+E:\c#\shape\shape\obj\Debug\netcoreapp2.1\shape.AssemblyInfoInputs.cache
+E:\c#\shape\shape\obj\Debug\netcoreapp2.1\shape.AssemblyInfo.cs
+E:\c#\shape\shape\obj\Debug\netcoreapp2.1\shape.dll
+E:\c#\shape\shape\obj\Debug\netcoreapp2.1\shape.pdb
