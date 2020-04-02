@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderManagement", "OrderManagement\OrderManagement.csproj", "{E37B0287-5D41-4AE3-B510-ECD194C5FDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagemantTests", "OrderManagemantTests\OrderManagemantTests.csproj", "{1CCABA4D-1287-4056-8B1F-A112E2F447AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37B0287-5D41-4AE3-B510-ECD194C5FDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37B0287-5D41-4AE3-B510-ECD194C5FDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37B0287-5D41-4AE3-B510-ECD194C5FDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37B0287-5D41-4AE3-B510-ECD194C5FDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCABA4D-1287-4056-8B1F-A112E2F447AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCABA4D-1287-4056-8B1F-A112E2F447AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCABA4D-1287-4056-8B1F-A112E2F447AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCABA4D-1287-4056-8B1F-A112E2F447AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74536BE5-C3D7-4007-9197-6D717F5F7C72}
+	EndGlobalSection
+EndGlobal
