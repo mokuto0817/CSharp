@@ -1,0 +1,10 @@
+E:\c#\CrawlerForm\CrawlerForm\bin\Debug\CrawlerForm.exe.config
+E:\c#\CrawlerForm\CrawlerForm\bin\Debug\CrawlerForm.exe
+E:\c#\CrawlerForm\CrawlerForm\bin\Debug\CrawlerForm.pdb
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.csprojAssemblyReference.cache
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.Form1.resources
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.Properties.Resources.resources
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.csproj.GenerateResource.cache
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.csproj.CoreCompileInputs.cache
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.exe
+E:\c#\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.pdb
