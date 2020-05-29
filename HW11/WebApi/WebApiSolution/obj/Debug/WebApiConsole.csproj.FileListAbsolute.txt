@@ -1,0 +1,14 @@
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\WebApiConsole.exe.config
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\WebApiConsole.exe
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\WebApiConsole.pdb
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\System.Web.Http.dll
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\bin\Debug\System.Web.Http.xml
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\obj\Debug\WebApiConsole.csprojAssemblyReference.cache
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\obj\Debug\WebApiConsole.csproj.CoreCompileInputs.cache
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\obj\Debug\WebApiConsole.csproj.CopyComplete
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\obj\Debug\WebApiConsole.exe
+C:\Users\mokuto\Desktop\COS_homework-master\COS_homework-master\WebApi\WebApiConsole\obj\Debug\WebApiConsole.pdb
